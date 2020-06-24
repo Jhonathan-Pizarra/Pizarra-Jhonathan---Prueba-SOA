@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Prueba Primer Bimestre-->
+<!-- Autor: Jhonathan Pizarra-->
+<!-- SOA -->
+
+<cartelera>
+    
+    <!--Pelicula-->
+    <pelicula>
+        <código>ER1425</código>
+        <título>Chuki Maligno 3</título>
+        <año>2006</año>
+        
+        <duración>
+            <horas>2</horas>
+            <minutos>31</minutos>
+            <segundos>17</segundos>
+        </duración>
+        
+        <nacionalidad>EEUU</nacionalidad>
+        <género>miedo, terror, drama</género>
+        <clasificación>+18</clasificación>
+        
+        <director>
+            <nombre>George Don </nombre>
+            <apellido>Donald Mancini</apellido>  
+            <fechaNacimiento>
+                <año>1963</año>
+                <mes>01</mes>
+                <dia>25</dia>
+            </fechaNacimiento>
+            
+        </director>
+        
+        <reparto>
+            <actoresPrincipales>
+                <nombresOriginales>Brad Dourif </nombresOriginales>
+                <nombreEnPelicula>Chucky</nombreEnPelicula>
+            </actoresPrincipales>
+            <actoresSecundarios>
+                <nombresOriginales>Alex Vincent</nombresOriginales>
+                <nombreEnPelicula>Andy Barclay</nombreEnPelicula>
+            </actoresSecundarios>
+            <dobles>
+                <nombresOriginales>Damian Petroit</nombresOriginales>
+                <nombreSustituto>Olaf Mendeleiv</nombreSustituto>
+            </dobles>
+        </reparto>
+        <sinopsis>Mediante un ritual de vudú, el alma de un asesino moribundo trasmigra a un muñeco. Una madre compra el muñeco para su hijo, sin saber que está arrojando a sus hijos a los brazos de un ser infernal.</sinopsis> 
+        
+    </pelicula> 
+    
+</cartelera>
+
+
+
+
+
+
